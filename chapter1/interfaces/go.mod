@@ -1,3 +1,3 @@
-module github.com/SergeyMoshkov/go-cookbook/chapterr1/interfaces
+module github.com/SergeyMoshkov/go-cookbook/chapter1/interfaces
 
 go 1.20
